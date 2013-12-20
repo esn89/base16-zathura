@@ -8,13 +8,13 @@ The base16 (and all variants) for Zathura pdf reader
 ![alt text](https://raw.github.com/esn89/base16-zathura/master/screenies/zathura-dark-completion.png "Completion Tab")
 * The tabbed completion portion of Zathura
 
-![alt text](https://raw.github.com/esn89/base16-zathura/blob/master/screenies/zathura-dark-error.png "Error notifications")
+![alt text](https://raw.github.com/esn89/base16-zathura/master/screenies/zathura-dark-error.png "Error notifications")
 * The error notifications
 
-![alt text](https://raw.github.com/esn89/base16-zathura/blob/master/screenies/zathura-dark-search.png "Search and highlight")
+![alt text](https://raw.github.com/esn89/base16-zathura/master/screenies/zathura-dark-search.png "Search and highlight")
 * Search and highlighting
 
-![alt text](https://raw.github.com/esn89/base16-zathura/blob/master/screenies/zathura-successnote.png "Succesfully selected")
+![alt text](https://raw.github.com/esn89/base16-zathura/master/screenies/zathura-successnote.png "Succesfully selected")
 * Notification on success
 
 **base16-light for Zathura:**
