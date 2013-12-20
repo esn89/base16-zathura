@@ -5,7 +5,7 @@ The base16 (and all variants) for Zathura pdf reader
 
 **base16-dark for Zathura:**
 
-![alt text](https://github.com/esn89/base16-zathura/blob/master/screenies/zathura-dark-completion.png "Completion Tab")
+![alt text](https://raw.github.com/esn89/base16-zathura/master/screenies/zathura-dark-completion.png "Completion Tab")
 * The tabbed completion portion of Zathura
 
 ![alt text](https://github.com/esn89/base16-zathura/blob/master/screenies/zathura-dark-error.png "Error notifications")
