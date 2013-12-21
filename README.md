@@ -14,7 +14,7 @@ The base16 (and all variants) for Zathura pdf reader
 ![alt text](https://raw.github.com/esn89/base16-zathura/master/screenies/zathura-dark-search.png "Search and highlight")
 * Search and highlighting
 
-![alt text](https://raw.github.com/esn89/base16-zathura/master/screenies/zathura-successnote.png "Succesfully selected")
+![alt text](https://raw.github.com/esn89/base16-zathura/master/screenies/zathura-dark-successnote.png "Succesfully selected")
 * Notification on success
 
 **base16-light for Zathura:**
