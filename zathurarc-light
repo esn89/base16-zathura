@@ -28,8 +28,8 @@ set completion-fg               "#75B5AA" #0C
 set notification-bg             "#90A959" #0B
 set notification-fg             "#F5F5F5" #07
 
-set recolor-lightcolor          "#E0E0E0" #02
-set recolor-darkcolor           "#303030" #06
+set recolor-lightcolor          "#E0E0E0" #06
+set recolor-darkcolor           "#303030" #02
 set recolor                     "true"
 
 # setting recolor-keephue true will keep any color your pdf
