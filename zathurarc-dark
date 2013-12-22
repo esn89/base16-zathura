@@ -10,7 +10,7 @@ set statusbar-bg                "#202020" #01
 set inputbar-bg                 "#151515" #00 currently not used
 set inputbar-fg                 "#303030" #02
 
-set notification-error-bg       "#AC4142" #0B
+set notification-error-bg       "#AC4142" #08
 set notification-error-fg       "#151515" #00
 
 set notification-warning-bg     "#AC4142" #08
