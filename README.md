@@ -3,6 +3,11 @@ base16-zathura
 
 The base16 (and all variants) for Zathura pdf reader
 
+**Usage:**
+$ cd base16-zathura
+$ mv <the theme you want> zathurarc
+$ cp zathurarc ~/.config/$USER/zathura/
+
 **base16-dark for Zathura:**
 
 ![alt text](https://raw.github.com/esn89/base16-zathura/master/screenies/zathura-dark-completion.png "Completion Tab")
